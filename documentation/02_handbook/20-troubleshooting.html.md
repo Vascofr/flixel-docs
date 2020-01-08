@@ -1,7 +1,7 @@
 ```
 title: "Troubleshooting"
 ```
-Unexpected behaviour one one may find with sources that are hard to determine.
+Unexpected behaviour one may find with sources that are hard to determine.
 
 ## Timestep
 
